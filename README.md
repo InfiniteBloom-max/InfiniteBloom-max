@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi there 👋 I’m Ronith!
+<img src="./assets/github-banner.svg" alt="Ronith Rashmikara cinematic butterfly neural network banner" width="100%" />
 
-### AI Engineer | Full-Stack Developer | Researcher | Lifelong Learner
-
-I love turning complex problems into intelligent systems that create real impact.
+<br />
 
 <p>
   <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white" />
