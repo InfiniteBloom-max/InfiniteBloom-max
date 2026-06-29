@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.svg" alt="Ronith Rashmikara cinematic butterfly neural network banner" width="100%" />
+<img src="./banner_image.png" alt="Ronith Rashmikara cinematic butterfly neural network banner" width="100%" />
 
 <br />
 
