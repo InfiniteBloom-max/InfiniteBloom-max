@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/InfiniteBloom-max/Project-Green-Orchids">🌸 K ORCHIDS — B2B Trade Platform</a></h3>
+      <h3><a href="https://github.com/InfiniteBloom-max/Project-Green-Orchids">🌸 ORCHIDS — B2B Trade Platform</a></h3>
       <p>Full monorepo: Next.js 14 + Express + PostgreSQL. Complete RFQ → quote → order pipeline with tier pricing, RBAC, invoicing, payments, RMA, and a dark glassmorphism UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
